@@ -1,0 +1,1 @@
+console.log("I still don't know how to make images and videos responsive, so on some devices it might be out of order :)")
